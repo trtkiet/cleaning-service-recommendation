@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Workspace/Classes/TuDuyTinhToan/cleaning-service-recommendation/runs/mlflow/784353608099443613/f72299cdd79e480684bc889a76eff86b/artifacts
+end_time: 1750328213100
+entry_point_name: ''
+experiment_id: '784353608099443613'
+lifecycle_stage: active
+run_id: f72299cdd79e480684bc889a76eff86b
+run_name: train6
+run_uuid: f72299cdd79e480684bc889a76eff86b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750325214200
+status: 3
+tags: []
+user_id: Admin
