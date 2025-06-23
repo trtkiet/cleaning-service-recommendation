@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 22
+names: ['Clean Table', 'Disorganized_pillow', 'Messy Table', 'chair', 'clean mirror', 'clean shower', 'clean_bathtub', 'clean_bed', 'clean_floor', 'clean_sink', 'clean_toilet', 'dirty_bathtub', 'dirty_floor', 'disorganized_towel', 'folded_towel', 'lamp', 'mess', 'messy_bed', 'messy_sink', 'messy_table', 'organised_pillow', 'organized table']
+
+roboflow:
+  workspace: pfe-4cafb
+  project: pfe12
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/pfe-4cafb/pfe12/dataset/2
